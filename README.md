@@ -1,11 +1,15 @@
-
-![_16qaIlX_400x400-modified](https://user-images.githubusercontent.com/94656438/142518794-073f9de1-0fd0-4d38-ba32-aeeb8acefb64.png?style=centerme)
-
-
-hustle coin was developed out of the necessity to provide investors a genuine token to invest and grow with. The creators of hustle coin are investors like you, who are tired of the hundreds of scam coins hitting the market daily.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94656438/142518794-073f9de1-0fd0-4d38-ba32-aeeb8acefb64.png">
+</p>
 
 
-tokenomics
+
+<h3>Hustle Coin Git Hub</h3>
+<p></p>
+<p>hustle coin was developed out of the necessity to provide investors a genuine token to invest and grow with. The creators of hustle coin are investors like you, who are tired of the hundreds of scam coins hitting the market daily.</p>
+
+
+<p><b>tokenomics</b></p>
 
 Every transaction will carry a 15% total transaction tax.
 
