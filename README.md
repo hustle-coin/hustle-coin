@@ -11,15 +11,5 @@
 
 <p><b>tokenomics</b></p>
 
-Every transaction will carry a 15% total transaction tax.
-
-8% of each transaction will be divided amongst all hustle coin holders.
-
-4% of each transaction will automatically be sent to the liquidity of the pool.
-
-3% of each transaction will be sent to the marketing wallet.
-
-75% liquidity locked for 4 years.
-
-Total Supply: 999,999,999 HUSTL
+New contract incoming
 
